@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-19T16:17:43.243122+00:00",
+  "generated_at": "2026-07-20T03:15:41.779137+00:00",
   "game_count": 11,
   "games": [
     {
       "game_name": "1 Incremental Collect Gold",
       "universe_id": "10240766190",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-18",
+      "latest_actual_date": "2026-07-19",
       "historical": [
         {
           "date": "2026-06-01",
@@ -193,6 +193,10 @@
         {
           "date": "2026-07-18",
           "ccu": 12.0
+        },
+        {
+          "date": "2026-07-19",
+          "ccu": 7.0
         }
       ],
       "predicted_segments": [
@@ -361,9 +365,9 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 11,
+          "observed_days": 12,
           "predicted_avg_ccu": 46.46270631727132,
-          "partial_real_avg_ccu": 17.636363636363637,
+          "partial_real_avg_ccu": 16.75,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -1697,6 +1701,18 @@
       ],
       "actual": [
         {
+          "date": "2026-07-08",
+          "ccu": 256837.0
+        },
+        {
+          "date": "2026-07-09",
+          "ccu": 280880.0
+        },
+        {
+          "date": "2026-07-10",
+          "ccu": 243647.0
+        },
+        {
           "date": "2026-07-11",
           "ccu": 1665455.0
         },
@@ -1891,9 +1907,9 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 7,
+          "observed_days": 10,
           "predicted_avg_ccu": 163672.55698889465,
-          "partial_real_avg_ccu": 581697.0,
+          "partial_real_avg_ccu": 485324.3,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -2702,7 +2718,7 @@
       "game_name": "Evomon",
       "universe_id": "9826885587",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-18",
+      "latest_actual_date": "2026-07-19",
       "historical": [
         {
           "date": "2026-06-16",
@@ -2829,6 +2845,10 @@
         {
           "date": "2026-07-18",
           "ccu": 52729.0
+        },
+        {
+          "date": "2026-07-19",
+          "ccu": 54601.0
         }
       ],
       "predicted_segments": [
@@ -2997,9 +3017,9 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 11,
+          "observed_days": 12,
           "predicted_avg_ccu": 60239.79421981964,
-          "partial_real_avg_ccu": 56003.36363636364,
+          "partial_real_avg_ccu": 55886.5,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -7825,6 +7845,18 @@
       ],
       "actual": [
         {
+          "date": "2026-07-08",
+          "ccu": 1942.0
+        },
+        {
+          "date": "2026-07-09",
+          "ccu": 1945.0
+        },
+        {
+          "date": "2026-07-10",
+          "ccu": 1662.0
+        },
+        {
           "date": "2026-07-11",
           "ccu": 2505.0
         },
@@ -8027,9 +8059,9 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 9,
+          "observed_days": 12,
           "predicted_avg_ccu": 4056.8516540485243,
-          "partial_real_avg_ccu": 1600.4444444444443,
+          "partial_real_avg_ccu": 1662.75,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
