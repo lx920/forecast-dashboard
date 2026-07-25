@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:00:11.781925+00:00",
+  "generated_at": "2026-07-25T09:00:10.462798+00:00",
   "game_count": 12,
   "games": [
     {
@@ -962,7 +962,7 @@
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-24",
+      "latest_actual_date": "2026-07-25",
       "historical": [
         {
           "date": "2026-05-28",
@@ -1095,8 +1095,20 @@
       ],
       "actual": [
         {
+          "date": "2026-07-08",
+          "ccu": 9477.0
+        },
+        {
+          "date": "2026-07-09",
+          "ccu": 8476.0
+        },
+        {
           "date": "2026-07-10",
           "ccu": 5390.0
+        },
+        {
+          "date": "2026-07-11",
+          "ccu": 6557.0
         },
         {
           "date": "2026-07-12",
@@ -1149,6 +1161,10 @@
         {
           "date": "2026-07-24",
           "ccu": 1207.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 1448.0
         }
       ],
       "predicted_segments": [
@@ -1623,7 +1639,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 5270.142857142857
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 5270.142857142857
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -1631,18 +1660,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 11,
-          "coverage_pct": 78.57142857142857,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 4771.670241194879,
-          "partial_real_avg_ccu": 4479.272727272727,
-          "running_actual_avg_ccu": 4479.272727272727,
-          "running_absolute_error": 292.39751392215203,
-          "running_absolute_percentage_error": 6.527789927633691,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 5270.142857142857,
+          "running_actual_avg_ccu": 5270.142857142857,
+          "running_absolute_error": 498.47261594797783,
+          "running_absolute_percentage_error": 9.458427019153302,
+          "realized_avg_ccu": 5270.142857142857,
+          "complete": true,
+          "absolute_error": 498.47261594797783,
+          "absolute_percentage_error": 9.458427019153302,
           "prediction_low": 4026.4473010810184,
           "prediction_high": 6351.942100811323
         },
@@ -1652,14 +1681,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 5022.350173602607,
-          "partial_real_avg_ccu": 1334.6666666666667,
-          "running_actual_avg_ccu": 1334.6666666666667,
-          "running_absolute_error": 3687.6835069359404,
-          "running_absolute_percentage_error": 276.29996305713837,
+          "partial_real_avg_ccu": 1363.0,
+          "running_actual_avg_ccu": 1363.0,
+          "running_absolute_error": 3659.3501736026074,
+          "running_absolute_percentage_error": 268.477635627484,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -1903,11 +1932,11 @@
         "historical_rows": 32,
         "historical_avg_7d": 10090.57142857143,
         "historical_avg_30d": 3762.3333333333335,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 498.47261594797783,
+        "mape": 9.458427019153302,
+        "wmape": 9.458427019153302,
+        "bias": -498.47261594797783
       }
     },
     {
