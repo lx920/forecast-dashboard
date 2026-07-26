@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-25T09:00:10.462798+00:00",
+  "generated_at": "2026-07-26T09:00:09.999107+00:00",
   "game_count": 12,
   "games": [
     {
       "game_name": "1 Incremental Collect Gold",
       "universe_id": "10240766190",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-19",
+      "latest_actual_date": "2026-07-25",
       "historical": [
         {
           "date": "2026-06-01",
@@ -197,6 +197,30 @@
         {
           "date": "2026-07-19",
           "ccu": 7.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 17.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 14.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 8.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 9.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 8.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 5.0
         }
       ],
       "predicted_segments": [
@@ -671,7 +695,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 16.571428571428573
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 16.571428571428573
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -679,18 +716,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 46.46270631727132,
-          "partial_real_avg_ccu": 16.75,
-          "running_actual_avg_ccu": 16.75,
-          "running_absolute_error": 29.71270631727132,
-          "running_absolute_percentage_error": 177.38929144639596,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 16.571428571428573,
+          "running_actual_avg_ccu": 16.571428571428573,
+          "running_absolute_error": 29.891277745842746,
+          "running_absolute_percentage_error": 180.37840019043034,
+          "realized_avg_ccu": 16.571428571428573,
+          "complete": true,
+          "absolute_error": 29.891277745842746,
+          "absolute_percentage_error": 180.37840019043034,
           "prediction_low": 39.206321685224054,
           "prediction_high": 61.850129086121534
         },
@@ -700,14 +737,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
+          "status": "partial",
           "predicted_avg_ccu": 102.77969595882458,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 7.5,
+          "running_actual_avg_ccu": 7.5,
+          "running_absolute_error": 95.27969595882458,
+          "running_absolute_percentage_error": 1270.3959461176612,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -951,18 +988,18 @@
         "historical_rows": 35,
         "historical_avg_7d": 38.57142857142857,
         "historical_avg_30d": 71.63333333333334,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 29.891277745842746,
+        "mape": 180.37840019043034,
+        "wmape": 180.37840019043034,
+        "bias": 29.891277745842746
       }
     },
     {
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-25",
+      "latest_actual_date": "2026-07-26",
       "historical": [
         {
           "date": "2026-05-28",
@@ -1165,6 +1202,10 @@
         {
           "date": "2026-07-25",
           "ccu": 1448.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 1099.0
         }
       ],
       "predicted_segments": [
@@ -1681,14 +1722,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 4,
-          "coverage_pct": 28.57142857142857,
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
           "status": "partial",
           "predicted_avg_ccu": 5022.350173602607,
-          "partial_real_avg_ccu": 1363.0,
-          "running_actual_avg_ccu": 1363.0,
-          "running_absolute_error": 3659.3501736026074,
-          "running_absolute_percentage_error": 268.477635627484,
+          "partial_real_avg_ccu": 1310.2,
+          "running_actual_avg_ccu": 1310.2,
+          "running_absolute_error": 3712.1501736026075,
+          "running_absolute_percentage_error": 283.32698623130875,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -4387,7 +4428,7 @@
       "game_name": "Climb and Drop a Lucky Block",
       "universe_id": "10189601764",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-19",
+      "latest_actual_date": "2026-07-25",
       "historical": [
         {
           "date": "2026-05-28",
@@ -4594,6 +4635,30 @@
         {
           "date": "2026-07-19",
           "ccu": 9708.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 8732.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 6830.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 6439.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 6766.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 6161.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 6504.0
         }
       ],
       "predicted_segments": [
@@ -5068,7 +5133,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 11235.07142857143
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 11235.07142857143
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -5076,18 +5154,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 3212.2744788171367,
-          "partial_real_avg_ccu": 11810.75,
-          "running_actual_avg_ccu": 11810.75,
-          "running_absolute_error": 8598.475521182863,
-          "running_absolute_percentage_error": 72.8021126616249,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 11235.07142857143,
+          "running_actual_avg_ccu": 11235.07142857143,
+          "running_absolute_error": 8022.796949754293,
+          "running_absolute_percentage_error": 71.40850862195553,
+          "realized_avg_ccu": 11235.07142857143,
+          "complete": true,
+          "absolute_error": 8022.796949754293,
+          "absolute_percentage_error": 71.40850862195553,
           "prediction_low": 2710.5925706898524,
           "prediction_high": 4276.108882212047
         },
@@ -5097,14 +5175,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
+          "status": "partial",
           "predicted_avg_ccu": 3644.5245007459866,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 6467.5,
+          "running_actual_avg_ccu": 6467.5,
+          "running_absolute_error": 2822.9754992540134,
+          "running_absolute_percentage_error": 43.64863547358351,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -5348,18 +5426,18 @@
         "historical_rows": 39,
         "historical_avg_7d": 6015.714285714285,
         "historical_avg_30d": 2287.1,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 8022.796949754293,
+        "mape": 71.40850862195553,
+        "wmape": 71.40850862195553,
+        "bias": -8022.796949754293
       }
     },
     {
       "game_name": "Evomon",
       "universe_id": "9826885587",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-19",
+      "latest_actual_date": "2026-07-26",
       "historical": [
         {
           "date": "2026-06-16",
@@ -5490,6 +5568,34 @@
         {
           "date": "2026-07-19",
           "ccu": 54601.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 40587.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 38463.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 33734.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 33956.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 32481.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 30941.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 21692.0
         }
       ],
       "predicted_segments": [
@@ -5964,7 +6070,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 53549.142857142855
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 53549.142857142855
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -5972,18 +6091,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 60239.79421981964,
-          "partial_real_avg_ccu": 55886.5,
-          "running_actual_avg_ccu": 55886.5,
-          "running_absolute_error": 4353.29421981964,
-          "running_absolute_percentage_error": 7.78952738106634,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 53549.142857142855,
+          "running_actual_avg_ccu": 53549.142857142855,
+          "running_absolute_error": 6690.651362676785,
+          "running_absolute_percentage_error": 12.494413553034727,
+          "realized_avg_ccu": 53549.142857142855,
+          "complete": true,
+          "absolute_error": 6690.651362676785,
+          "absolute_percentage_error": 12.494413553034727,
           "prediction_low": 50831.75169148548,
           "prediction_high": 80189.88440267109
         },
@@ -5993,14 +6112,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
+          "status": "partial",
           "predicted_avg_ccu": 51685.76890794461,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 30560.8,
+          "running_actual_avg_ccu": 30560.8,
+          "running_absolute_error": 21124.968907944614,
+          "running_absolute_percentage_error": 69.1243976202999,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -6244,18 +6363,18 @@
         "historical_rows": 20,
         "historical_avg_7d": 66920.0,
         "historical_avg_30d": 38981.15,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 6690.651362676785,
+        "mape": 12.494413553034727,
+        "wmape": 12.494413553034727,
+        "bias": 6690.651362676785
       }
     },
     {
       "game_name": "My Parking Lot",
       "universe_id": "10276958295",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-19",
+      "latest_actual_date": "2026-07-26",
       "historical": [
         {
           "date": "2026-06-12",
@@ -6402,6 +6521,34 @@
         {
           "date": "2026-07-19",
           "ccu": 476.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 575.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 477.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 296.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 341.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 496.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 517.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 317.0
         }
       ],
       "predicted_segments": [
@@ -6876,7 +7023,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 632.9285714285714
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 632.9285714285714
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -6884,18 +7044,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 2574.0072281048906,
-          "partial_real_avg_ccu": 650.75,
-          "running_actual_avg_ccu": 650.75,
-          "running_absolute_error": 1923.2572281048906,
-          "running_absolute_percentage_error": 295.54471426890365,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 632.9285714285714,
+          "running_actual_avg_ccu": 632.9285714285714,
+          "running_absolute_error": 1941.078656676319,
+          "running_absolute_percentage_error": 306.6821035263341,
+          "realized_avg_ccu": 632.9285714285714,
+          "complete": true,
+          "absolute_error": 1941.078656676319,
+          "absolute_percentage_error": 306.6821035263341,
           "prediction_low": 2172.007689695398,
           "prediction_high": 3426.4616064285915
         },
@@ -6905,14 +7065,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
+          "status": "partial",
           "predicted_avg_ccu": 2466.9225796635214,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 393.4,
+          "running_actual_avg_ccu": 393.4,
+          "running_absolute_error": 2073.5225796635214,
+          "running_absolute_percentage_error": 527.0774223852368,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -7156,18 +7316,18 @@
         "historical_rows": 24,
         "historical_avg_7d": 3274.5714285714284,
         "historical_avg_30d": 2453.7916666666665,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 1941.078656676319,
+        "mape": 306.6821035263341,
+        "wmape": 306.6821035263341,
+        "bias": 1941.078656676319
       }
     },
     {
       "game_name": "Paint and Hide",
       "universe_id": "10239645614",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-19",
+      "latest_actual_date": "2026-07-26",
       "historical": [
         {
           "date": "2026-06-12",
@@ -7310,6 +7470,34 @@
         {
           "date": "2026-07-19",
           "ccu": 90.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 65.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 63.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 66.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 45.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 37.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 30.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 34.0
         }
       ],
       "predicted_segments": [
@@ -7784,7 +7972,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 288.35714285714283
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 288.35714285714283
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -7792,18 +7993,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 2110.7726562322046,
-          "partial_real_avg_ccu": 325.75,
-          "running_actual_avg_ccu": 325.75,
-          "running_absolute_error": 1785.0226562322046,
-          "running_absolute_percentage_error": 547.9731868709761,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 288.35714285714283,
+          "running_actual_avg_ccu": 288.35714285714283,
+          "running_absolute_error": 1822.4155133750617,
+          "running_absolute_percentage_error": 631.9994349083692,
+          "realized_avg_ccu": 288.35714285714283,
+          "complete": true,
+          "absolute_error": 1822.4155133750617,
+          "absolute_percentage_error": 631.9994349083692,
           "prediction_low": 1781.119489672352,
           "prediction_high": 2809.8139692497484
         },
@@ -7813,14 +8014,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
+          "status": "partial",
           "predicted_avg_ccu": 2177.9579678100818,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 42.4,
+          "running_actual_avg_ccu": 42.4,
+          "running_absolute_error": 2135.5579678100817,
+          "running_absolute_percentage_error": 5036.6933203067965,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -8064,18 +8265,18 @@
         "historical_rows": 23,
         "historical_avg_7d": 1743.2857142857142,
         "historical_avg_30d": 3339.5652173913045,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 1822.4155133750617,
+        "mape": 631.9994349083692,
+        "wmape": 631.9994349083692,
+        "bias": 1822.4155133750617
       }
     },
     {
       "game_name": "Random Mafia Shooter",
       "universe_id": "6964415405",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-20",
+      "latest_actual_date": "2026-07-24",
       "historical": [
         {
           "date": "2025-05-13",
@@ -9788,8 +9989,24 @@
           "ccu": 615.0
         },
         {
+          "date": "2026-07-19",
+          "ccu": 584.0
+        },
+        {
           "date": "2026-07-20",
           "ccu": 600.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 608.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 897.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 692.0
         }
       ],
       "predicted_segments": [
@@ -10264,7 +10481,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 618.9285714285714
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 618.9285714285714
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -10272,18 +10502,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 680.6049650920576,
-          "partial_real_avg_ccu": 622.75,
-          "running_actual_avg_ccu": 622.75,
-          "running_absolute_error": 57.85496509205757,
-          "running_absolute_percentage_error": 9.290239276123256,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 618.9285714285714,
+          "running_actual_avg_ccu": 618.9285714285714,
+          "running_absolute_error": 61.676393663486124,
+          "running_absolute_percentage_error": 9.96502609681253,
+          "realized_avg_ccu": 618.9285714285714,
+          "complete": true,
+          "absolute_error": 61.676393663486124,
+          "absolute_percentage_error": 9.96502609681253,
           "prediction_low": 595.1897198690858,
           "prediction_high": 822.9637071303437
         },
@@ -10293,14 +10523,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 2,
+          "coverage_pct": 14.285714285714285,
+          "status": "partial",
           "predicted_avg_ccu": 764.6530862054917,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 794.5,
+          "running_actual_avg_ccu": 794.5,
+          "running_absolute_error": 29.846913794508282,
+          "running_absolute_percentage_error": 3.756691478226341,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -10544,18 +10774,18 @@
         "historical_rows": 416,
         "historical_avg_7d": 604.4285714285714,
         "historical_avg_30d": 672.5333333333333,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 61.676393663486124,
+        "mape": 9.96502609681253,
+        "wmape": 9.96502609681253,
+        "bias": 61.676393663486124
       }
     },
     {
       "game_name": "San Diego Border Roleplay",
       "universe_id": "9855761734",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-19",
+      "latest_actual_date": "2026-07-26",
       "historical": [
         {
           "date": "2026-05-11",
@@ -10822,6 +11052,34 @@
         {
           "date": "2026-07-19",
           "ccu": 16407.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 16530.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 15043.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 15156.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 17943.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 18516.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 18881.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 15670.0
         }
       ],
       "predicted_segments": [
@@ -11296,7 +11554,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 15672.857142857143
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 15672.857142857143
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -11304,18 +11575,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 14769.504954161566,
-          "partial_real_avg_ccu": 15653.916666666666,
-          "running_actual_avg_ccu": 15653.916666666666,
-          "running_absolute_error": 884.4117125050998,
-          "running_absolute_percentage_error": 5.6497791021742145,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 15672.857142857143,
+          "running_actual_avg_ccu": 15672.857142857143,
+          "running_absolute_error": 903.3521886955768,
+          "running_absolute_percentage_error": 5.763800310700062,
+          "realized_avg_ccu": 15672.857142857143,
+          "complete": true,
+          "absolute_error": 903.3521886955768,
+          "absolute_percentage_error": 5.763800310700062,
           "prediction_low": 12462.854798217357,
           "prediction_high": 19660.83899020397
         },
@@ -11325,14 +11596,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
+          "status": "partial",
           "predicted_avg_ccu": 14079.626513823147,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 17233.2,
+          "running_actual_avg_ccu": 17233.2,
+          "running_absolute_error": 3153.573486176854,
+          "running_absolute_percentage_error": 18.299407458724172,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -11576,18 +11847,18 @@
         "historical_rows": 54,
         "historical_avg_7d": 19047.85714285714,
         "historical_avg_30d": 14504.4,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 903.3521886955768,
+        "mape": 5.763800310700062,
+        "wmape": 5.763800310700062,
+        "bias": -903.3521886955768
       }
     },
     {
       "game_name": "Scale Slimy Fish",
       "universe_id": "10299611114",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-19",
+      "latest_actual_date": "2026-07-25",
       "historical": [
         {
           "date": "2026-06-14",
@@ -11726,6 +11997,30 @@
         {
           "date": "2026-07-19",
           "ccu": 4087.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 3082.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 2979.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 2194.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 2101.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 2110.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 2229.0
         }
       ],
       "predicted_segments": [
@@ -12200,7 +12495,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 7031.357142857143
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 7031.357142857143
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -12208,18 +12516,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 12,
-          "coverage_pct": 85.71428571428571,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 6852.518937478817,
-          "partial_real_avg_ccu": 7698.166666666667,
-          "running_actual_avg_ccu": 7698.166666666667,
-          "running_absolute_error": 845.64772918785,
-          "running_absolute_percentage_error": 10.985053530336444,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 7031.357142857143,
+          "running_actual_avg_ccu": 7031.357142857143,
+          "running_absolute_error": 178.83820537832617,
+          "running_absolute_percentage_error": 2.5434379415643864,
+          "realized_avg_ccu": 7031.357142857143,
+          "complete": true,
+          "absolute_error": 178.83820537832617,
+          "absolute_percentage_error": 2.5434379415643864,
           "prediction_low": 5782.316251281644,
           "prediction_high": 9121.921955084428
         },
@@ -12229,14 +12537,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
+          "status": "partial",
           "predicted_avg_ccu": 6791.06845944205,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 2158.5,
+          "running_actual_avg_ccu": 2158.5,
+          "running_absolute_error": 4632.56845944205,
+          "running_absolute_percentage_error": 214.61980354144313,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -12480,18 +12788,18 @@
         "historical_rows": 22,
         "historical_avg_7d": 10389.285714285714,
         "historical_avg_30d": 5021.818181818182,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 178.83820537832617,
+        "mape": 2.5434379415643864,
+        "wmape": 2.5434379415643864,
+        "bias": -178.83820537832617
       }
     },
     {
       "game_name": "Split or Steal Brainrot",
       "universe_id": "9931060493",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-20",
+      "latest_actual_date": "2026-07-25",
       "historical": [
         {
           "date": "2026-04-22",
@@ -12814,6 +13122,26 @@
         {
           "date": "2026-07-20",
           "ccu": 700.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 787.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 835.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 1059.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 1011.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 1131.0
         }
       ],
       "predicted_segments": [
@@ -13288,7 +13616,20 @@
           "ccu": null
         }
       ],
-      "realized_segments": [],
+      "realized_segments": [
+        {
+          "date": "2026-07-08",
+          "ccu": 1531.4285714285713
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 1531.4285714285713
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
       "intervals": [
         {
           "interval_number": 1,
@@ -13296,18 +13637,18 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 13,
-          "coverage_pct": 92.85714285714286,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 4056.8516540485243,
-          "partial_real_avg_ccu": 1588.6923076923076,
-          "running_actual_avg_ccu": 1588.6923076923076,
-          "running_absolute_error": 2468.1593463562167,
-          "running_absolute_percentage_error": 155.35792138009404,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 1531.4285714285713,
+          "running_actual_avg_ccu": 1531.4285714285713,
+          "running_absolute_error": 2525.4230826199528,
+          "running_absolute_percentage_error": 164.9063580068999,
+          "realized_avg_ccu": 1531.4285714285713,
+          "complete": true,
+          "absolute_error": 2525.4230826199528,
+          "absolute_percentage_error": 164.9063580068999,
           "prediction_low": 3547.720812170367,
           "prediction_high": 4905.403057178786
         },
@@ -13317,14 +13658,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
+          "status": "partial",
           "predicted_avg_ccu": 4177.64549795409,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 1009.0,
+          "running_actual_avg_ccu": 1009.0,
+          "running_absolute_error": 3168.6454979540904,
+          "running_absolute_percentage_error": 314.03820594193166,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -13568,11 +13909,11 @@
         "historical_rows": 67,
         "historical_avg_7d": 6916.428571428572,
         "historical_avg_30d": 9491.4,
-        "completed_intervals": 0,
-        "mae": null,
-        "mape": null,
-        "wmape": null,
-        "bias": null
+        "completed_intervals": 1,
+        "mae": 2525.4230826199528,
+        "mape": 164.9063580068999,
+        "wmape": 164.9063580068999,
+        "bias": 2525.4230826199528
       }
     }
   ]
