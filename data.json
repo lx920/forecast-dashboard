@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T09:00:09.999107+00:00",
+  "generated_at": "2026-07-27T09:00:10.631577+00:00",
   "game_count": 12,
   "games": [
     {
@@ -999,7 +999,7 @@
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-26",
+      "latest_actual_date": "2026-07-27",
       "historical": [
         {
           "date": "2026-05-28",
@@ -1206,6 +1206,10 @@
         {
           "date": "2026-07-26",
           "ccu": 1099.0
+        },
+        {
+          "date": "2026-07-27",
+          "ccu": 845.0
         }
       ],
       "predicted_segments": [
@@ -1722,14 +1726,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 5,
-          "coverage_pct": 35.714285714285715,
+          "observed_days": 6,
+          "coverage_pct": 42.857142857142854,
           "status": "partial",
           "predicted_avg_ccu": 5022.350173602607,
-          "partial_real_avg_ccu": 1310.2,
-          "running_actual_avg_ccu": 1310.2,
-          "running_absolute_error": 3712.1501736026075,
-          "running_absolute_percentage_error": 283.32698623130875,
+          "partial_real_avg_ccu": 1232.6666666666667,
+          "running_actual_avg_ccu": 1232.6666666666667,
+          "running_absolute_error": 3789.6835069359404,
+          "running_absolute_percentage_error": 307.43781830199623,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -3056,7 +3060,7 @@
       "game_name": "1 Speed Keyboard Escape",
       "universe_id": "9584852943",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-20",
+      "latest_actual_date": "2026-07-26",
       "historical": [
         {
           "date": "2026-02-08",
@@ -3661,8 +3665,36 @@
           "ccu": 375811.0
         },
         {
+          "date": "2026-07-19",
+          "ccu": 535870.0
+        },
+        {
           "date": "2026-07-20",
           "ccu": 234687.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 382520.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 256493.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 317128.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 360499.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 1130931.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 706658.0
         }
       ],
       "predicted_segments": [
@@ -4145,14 +4177,14 @@
           "start_date": "2026-07-08",
           "end_date": "2026-07-21",
           "expected_days": 14,
-          "observed_days": 11,
-          "coverage_pct": 78.57142857142857,
+          "observed_days": 13,
+          "coverage_pct": 92.85714285714286,
           "status": "partial",
           "predicted_avg_ccu": 163672.55698889465,
-          "partial_real_avg_ccu": 462539.0909090909,
-          "running_actual_avg_ccu": 462539.0909090909,
-          "running_absolute_error": 298866.53392019623,
-          "running_absolute_percentage_error": 64.61432985756798,
+          "partial_real_avg_ccu": 462024.6153846154,
+          "running_actual_avg_ccu": 462024.6153846154,
+          "running_absolute_error": 298352.0583957207,
+          "running_absolute_percentage_error": 64.57492706256693,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -4166,14 +4198,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
+          "status": "partial",
           "predicted_avg_ccu": 127335.72956100674,
-          "partial_real_avg_ccu": null,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 554341.8,
+          "running_actual_avg_ccu": 554341.8,
+          "running_absolute_error": 427006.0704389933,
+          "running_absolute_percentage_error": 77.02938339468416,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
