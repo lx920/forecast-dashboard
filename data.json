@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:00:10.631577+00:00",
+  "generated_at": "2026-07-28T09:00:10.702410+00:00",
   "game_count": 12,
   "games": [
     {
@@ -999,7 +999,7 @@
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-27",
+      "latest_actual_date": "2026-07-28",
       "historical": [
         {
           "date": "2026-05-28",
@@ -1210,6 +1210,10 @@
         {
           "date": "2026-07-27",
           "ccu": 845.0
+        },
+        {
+          "date": "2026-07-28",
+          "ccu": 1147.0
         }
       ],
       "predicted_segments": [
@@ -1726,14 +1730,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 6,
-          "coverage_pct": 42.857142857142854,
+          "observed_days": 7,
+          "coverage_pct": 50.0,
           "status": "partial",
           "predicted_avg_ccu": 5022.350173602607,
-          "partial_real_avg_ccu": 1232.6666666666667,
-          "running_actual_avg_ccu": 1232.6666666666667,
-          "running_absolute_error": 3789.6835069359404,
-          "running_absolute_percentage_error": 307.43781830199623,
+          "partial_real_avg_ccu": 1220.4285714285713,
+          "running_actual_avg_ccu": 1220.4285714285713,
+          "running_absolute_error": 3801.921602174036,
+          "running_absolute_percentage_error": 311.5234837319238,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -10817,7 +10821,7 @@
       "game_name": "San Diego Border Roleplay",
       "universe_id": "9855761734",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-26",
+      "latest_actual_date": "2026-07-27",
       "historical": [
         {
           "date": "2026-05-11",
@@ -11112,6 +11116,10 @@
         {
           "date": "2026-07-26",
           "ccu": 15670.0
+        },
+        {
+          "date": "2026-07-27",
+          "ccu": 28488.0
         }
       ],
       "predicted_segments": [
@@ -11628,14 +11636,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 5,
-          "coverage_pct": 35.714285714285715,
+          "observed_days": 6,
+          "coverage_pct": 42.857142857142854,
           "status": "partial",
           "predicted_avg_ccu": 14079.626513823147,
-          "partial_real_avg_ccu": 17233.2,
-          "running_actual_avg_ccu": 17233.2,
-          "running_absolute_error": 3153.573486176854,
-          "running_absolute_percentage_error": 18.299407458724172,
+          "partial_real_avg_ccu": 19109.0,
+          "running_actual_avg_ccu": 19109.0,
+          "running_absolute_error": 5029.3734861768535,
+          "running_absolute_percentage_error": 26.319396547055597,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
