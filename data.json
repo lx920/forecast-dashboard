@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:00:11.409020+00:00",
+  "generated_at": "2026-07-30T22:17:08.284012+00:00",
   "game_count": 12,
   "games": [
     {
@@ -12847,7 +12847,7 @@
       "game_name": "Split or Steal Brainrot",
       "universe_id": "9931060493",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-07-25",
+      "latest_actual_date": "2026-07-28",
       "historical": [
         {
           "date": "2026-04-22",
@@ -13190,6 +13190,18 @@
         {
           "date": "2026-07-25",
           "ccu": 1131.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 946.0
+        },
+        {
+          "date": "2026-07-27",
+          "ccu": 878.0
+        },
+        {
+          "date": "2026-07-28",
+          "ccu": 804.0
         }
       ],
       "predicted_segments": [
@@ -13706,14 +13718,14 @@
           "start_date": "2026-07-22",
           "end_date": "2026-08-04",
           "expected_days": 14,
-          "observed_days": 4,
-          "coverage_pct": 28.57142857142857,
+          "observed_days": 7,
+          "coverage_pct": 50.0,
           "status": "partial",
           "predicted_avg_ccu": 4177.64549795409,
-          "partial_real_avg_ccu": 1009.0,
-          "running_actual_avg_ccu": 1009.0,
-          "running_absolute_error": 3168.6454979540904,
-          "running_absolute_percentage_error": 314.03820594193166,
+          "partial_real_avg_ccu": 952.0,
+          "running_actual_avg_ccu": 952.0,
+          "running_absolute_error": 3225.6454979540904,
+          "running_absolute_percentage_error": 338.82830860862293,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
