@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T09:00:13.063014+00:00",
+  "generated_at": "2026-08-12T09:00:13.426404+00:00",
   "game_count": 17,
   "games": [
     {
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-08-11",
+      "latest_actual_date": "2026-08-12",
       "historical": [
         {
           "date": "2026-05-28",
@@ -277,6 +277,10 @@
         {
           "date": "2026-08-11",
           "ccu": 714.0
+        },
+        {
+          "date": "2026-08-12",
+          "ccu": 589.0
         }
       ],
       "predicted_segments": [
@@ -826,14 +830,14 @@
           "start_date": "2026-08-05",
           "end_date": "2026-08-18",
           "expected_days": 14,
-          "observed_days": 7,
-          "coverage_pct": 50.0,
+          "observed_days": 8,
+          "coverage_pct": 57.14285714285714,
           "status": "partial",
           "predicted_avg_ccu": 4500.265357192632,
-          "partial_real_avg_ccu": 1139.7142857142858,
-          "running_actual_avg_ccu": 1139.7142857142858,
-          "running_absolute_error": 3360.5510714783463,
-          "running_absolute_percentage_error": 294.85908122773156,
+          "partial_real_avg_ccu": 1070.875,
+          "running_actual_avg_ccu": 1070.875,
+          "running_absolute_error": 3429.390357192632,
+          "running_absolute_percentage_error": 320.24189164866414,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -7143,7 +7147,7 @@
       "game_name": "Anime Card Chronicles",
       "universe_id": "9844129216",
       "forecast_origin_date": "2026-08-10",
-      "latest_actual_date": "2026-08-10",
+      "latest_actual_date": "2026-08-12",
       "historical": [
         {
           "date": "2026-06-23",
@@ -7270,7 +7274,12 @@
           "ccu": 2216.0
         }
       ],
-      "actual": [],
+      "actual": [
+        {
+          "date": "2026-08-12",
+          "ccu": 2127.0
+        }
+      ],
       "predicted_segments": [
         {
           "date": "2026-08-11",
@@ -7751,11 +7760,11 @@
           "start_date": "2026-08-11",
           "end_date": "2026-08-24",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 1,
+          "coverage_pct": 7.142857142857142,
+          "status": "partial",
           "predicted_avg_ccu": 2025.620467502737,
-          "partial_real_avg_ccu": null,
+          "partial_real_avg_ccu": 2127.0,
           "running_actual_avg_ccu": null,
           "running_absolute_error": null,
           "running_absolute_percentage_error": null,
