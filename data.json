@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T09:00:13.064825+00:00",
-  "game_count": 17,
+  "generated_at": "2026-08-17T04:03:59.678808+00:00",
+  "game_count": 18,
   "games": [
     {
       "game_name": "+1 Magic Evolution",
@@ -14431,6 +14431,973 @@
         "mape": 12.494413553034727,
         "wmape": 12.494413553034727,
         "bias": 6690.651362676785
+      }
+    },
+    {
+      "game_name": "Iron Soul: Dungeon",
+      "universe_id": "9910245722",
+      "forecast_origin_date": "2026-08-16",
+      "latest_actual_date": "2026-08-16",
+      "historical": [
+        {
+          "date": "2026-06-21",
+          "ccu": 14640.0
+        },
+        {
+          "date": "2026-06-22",
+          "ccu": 8912.0
+        },
+        {
+          "date": "2026-06-23",
+          "ccu": 8818.0
+        },
+        {
+          "date": "2026-06-24",
+          "ccu": 8198.0
+        },
+        {
+          "date": "2026-06-25",
+          "ccu": 9021.0
+        },
+        {
+          "date": "2026-06-26",
+          "ccu": 8699.0
+        },
+        {
+          "date": "2026-06-27",
+          "ccu": 12671.0
+        },
+        {
+          "date": "2026-06-28",
+          "ccu": 11820.0
+        },
+        {
+          "date": "2026-06-29",
+          "ccu": 8741.0
+        },
+        {
+          "date": "2026-06-30",
+          "ccu": 8703.0
+        },
+        {
+          "date": "2026-07-01",
+          "ccu": 8221.0
+        },
+        {
+          "date": "2026-07-02",
+          "ccu": 8335.0
+        },
+        {
+          "date": "2026-07-03",
+          "ccu": 8222.0
+        },
+        {
+          "date": "2026-07-04",
+          "ccu": 10244.0
+        },
+        {
+          "date": "2026-07-05",
+          "ccu": 10227.0
+        },
+        {
+          "date": "2026-07-06",
+          "ccu": 7472.0
+        },
+        {
+          "date": "2026-07-07",
+          "ccu": 7810.0
+        },
+        {
+          "date": "2026-07-08",
+          "ccu": 7992.0
+        },
+        {
+          "date": "2026-07-09",
+          "ccu": 8091.0
+        },
+        {
+          "date": "2026-07-10",
+          "ccu": 8777.0
+        },
+        {
+          "date": "2026-07-18",
+          "ccu": 15242.0
+        },
+        {
+          "date": "2026-07-19",
+          "ccu": 16665.0
+        },
+        {
+          "date": "2026-07-20",
+          "ccu": 12280.0
+        },
+        {
+          "date": "2026-07-21",
+          "ccu": 12468.0
+        },
+        {
+          "date": "2026-07-22",
+          "ccu": 11269.0
+        },
+        {
+          "date": "2026-07-23",
+          "ccu": 11526.0
+        },
+        {
+          "date": "2026-07-24",
+          "ccu": 14493.0
+        },
+        {
+          "date": "2026-07-25",
+          "ccu": 15954.0
+        },
+        {
+          "date": "2026-07-26",
+          "ccu": 16552.0
+        },
+        {
+          "date": "2026-07-27",
+          "ccu": 14666.0
+        },
+        {
+          "date": "2026-07-28",
+          "ccu": 15646.0
+        },
+        {
+          "date": "2026-07-29",
+          "ccu": 15769.0
+        },
+        {
+          "date": "2026-07-30",
+          "ccu": 15689.0
+        },
+        {
+          "date": "2026-07-31",
+          "ccu": 8437.0
+        },
+        {
+          "date": "2026-08-01",
+          "ccu": 8437.0
+        },
+        {
+          "date": "2026-08-02",
+          "ccu": 8437.0
+        },
+        {
+          "date": "2026-08-03",
+          "ccu": 17086.0
+        },
+        {
+          "date": "2026-08-04",
+          "ccu": 17086.0
+        },
+        {
+          "date": "2026-08-05",
+          "ccu": 17086.0
+        },
+        {
+          "date": "2026-08-06",
+          "ccu": 17086.0
+        },
+        {
+          "date": "2026-08-07",
+          "ccu": 17086.0
+        },
+        {
+          "date": "2026-08-08",
+          "ccu": 17086.0
+        },
+        {
+          "date": "2026-08-09",
+          "ccu": 20658.0
+        },
+        {
+          "date": "2026-08-10",
+          "ccu": 17312.0
+        },
+        {
+          "date": "2026-08-11",
+          "ccu": 17548.0
+        },
+        {
+          "date": "2026-08-12",
+          "ccu": 16708.0
+        },
+        {
+          "date": "2026-08-13",
+          "ccu": 16300.0
+        },
+        {
+          "date": "2026-08-14",
+          "ccu": 18529.0
+        },
+        {
+          "date": "2026-08-15",
+          "ccu": 22779.0
+        },
+        {
+          "date": "2026-08-16",
+          "ccu": 22376.0
+        }
+      ],
+      "actual": [],
+      "predicted_segments": [
+        {
+          "date": "2026-08-17",
+          "ccu": 14588.103954326169
+        },
+        {
+          "date": "2026-08-30",
+          "ccu": 14588.103954326169
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-08-31",
+          "ccu": 14461.619931143396
+        },
+        {
+          "date": "2026-09-13",
+          "ccu": 14461.619931143396
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-09-14",
+          "ccu": 14211.051646405987
+        },
+        {
+          "date": "2026-09-27",
+          "ccu": 14211.051646405987
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-09-28",
+          "ccu": 14014.379407680297
+        },
+        {
+          "date": "2026-10-11",
+          "ccu": 14014.379407680297
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-10-12",
+          "ccu": 13656.32196178834
+        },
+        {
+          "date": "2026-10-25",
+          "ccu": 13656.32196178834
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-10-26",
+          "ccu": 12918.910373508863
+        },
+        {
+          "date": "2026-11-08",
+          "ccu": 12918.910373508863
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-11-09",
+          "ccu": 12792.645616695429
+        },
+        {
+          "date": "2026-11-22",
+          "ccu": 12792.645616695429
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-11-23",
+          "ccu": 11620.507518615319
+        },
+        {
+          "date": "2026-12-06",
+          "ccu": 11620.507518615319
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-12-07",
+          "ccu": 11391.509306339358
+        },
+        {
+          "date": "2026-12-20",
+          "ccu": 11391.509306339358
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-12-21",
+          "ccu": 11264.316097380904
+        },
+        {
+          "date": "2027-01-03",
+          "ccu": 11264.316097380904
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2027-01-04",
+          "ccu": 10658.407303802187
+        },
+        {
+          "date": "2027-01-17",
+          "ccu": 10658.407303802187
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2027-01-18",
+          "ccu": 10032.007543147996
+        },
+        {
+          "date": "2027-01-31",
+          "ccu": 10032.007543147996
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2027-02-01",
+          "ccu": 9956.634831436098
+        },
+        {
+          "date": "2027-02-12",
+          "ccu": 9956.634831436098
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
+      "prediction_band_segments": [
+        {
+          "date": "2026-08-17",
+          "ccu": 9117.643596507058
+        },
+        {
+          "date": "2026-08-30",
+          "ccu": 9117.643596507058
+        },
+        {
+          "date": "2026-08-30",
+          "ccu": 21682.715640319304
+        },
+        {
+          "date": "2026-08-17",
+          "ccu": 21682.715640319304
+        },
+        {
+          "date": "2026-08-17",
+          "ccu": 9117.643596507058
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-08-31",
+          "ccu": 7781.3673395624355
+        },
+        {
+          "date": "2026-09-13",
+          "ccu": 7781.3673395624355
+        },
+        {
+          "date": "2026-09-13",
+          "ccu": 24517.910763009495
+        },
+        {
+          "date": "2026-08-31",
+          "ccu": 24517.910763009495
+        },
+        {
+          "date": "2026-08-31",
+          "ccu": 7781.3673395624355
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-09-14",
+          "ccu": 6735.41658945353
+        },
+        {
+          "date": "2026-09-27",
+          "ccu": 6735.41658945353
+        },
+        {
+          "date": "2026-09-27",
+          "ccu": 25222.592376187684
+        },
+        {
+          "date": "2026-09-14",
+          "ccu": 25222.592376187684
+        },
+        {
+          "date": "2026-09-14",
+          "ccu": 6735.41658945353
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-09-28",
+          "ccu": 6179.65527099087
+        },
+        {
+          "date": "2026-10-11",
+          "ccu": 6179.65527099087
+        },
+        {
+          "date": "2026-10-11",
+          "ccu": 26725.409772285802
+        },
+        {
+          "date": "2026-09-28",
+          "ccu": 26725.409772285802
+        },
+        {
+          "date": "2026-09-28",
+          "ccu": 6179.65527099087
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-10-12",
+          "ccu": 5115.416661414073
+        },
+        {
+          "date": "2026-10-25",
+          "ccu": 5115.416661414073
+        },
+        {
+          "date": "2026-10-25",
+          "ccu": 25477.02877002389
+        },
+        {
+          "date": "2026-10-12",
+          "ccu": 25477.02877002389
+        },
+        {
+          "date": "2026-10-12",
+          "ccu": 5115.416661414073
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-10-26",
+          "ccu": 4481.678488579796
+        },
+        {
+          "date": "2026-11-08",
+          "ccu": 4481.678488579796
+        },
+        {
+          "date": "2026-11-08",
+          "ccu": 26364.289489642262
+        },
+        {
+          "date": "2026-10-26",
+          "ccu": 26364.289489642262
+        },
+        {
+          "date": "2026-10-26",
+          "ccu": 4481.678488579796
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-11-09",
+          "ccu": 3907.2065153631524
+        },
+        {
+          "date": "2026-11-22",
+          "ccu": 3907.2065153631524
+        },
+        {
+          "date": "2026-11-22",
+          "ccu": 25691.68396068992
+        },
+        {
+          "date": "2026-11-09",
+          "ccu": 25691.68396068992
+        },
+        {
+          "date": "2026-11-09",
+          "ccu": 3907.2065153631524
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-11-23",
+          "ccu": 3433.1240077306625
+        },
+        {
+          "date": "2026-12-06",
+          "ccu": 3433.1240077306625
+        },
+        {
+          "date": "2026-12-06",
+          "ccu": 23704.547898487926
+        },
+        {
+          "date": "2026-11-23",
+          "ccu": 23704.547898487926
+        },
+        {
+          "date": "2026-11-23",
+          "ccu": 3433.1240077306625
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-12-07",
+          "ccu": 2868.249089567859
+        },
+        {
+          "date": "2026-12-20",
+          "ccu": 2868.249089567859
+        },
+        {
+          "date": "2026-12-20",
+          "ccu": 24459.429130488235
+        },
+        {
+          "date": "2026-12-07",
+          "ccu": 24459.429130488235
+        },
+        {
+          "date": "2026-12-07",
+          "ccu": 2868.249089567859
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2026-12-21",
+          "ccu": 2843.308281349549
+        },
+        {
+          "date": "2027-01-03",
+          "ccu": 2843.308281349549
+        },
+        {
+          "date": "2027-01-03",
+          "ccu": 24078.990186042294
+        },
+        {
+          "date": "2026-12-21",
+          "ccu": 24078.990186042294
+        },
+        {
+          "date": "2026-12-21",
+          "ccu": 2843.308281349549
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2027-01-04",
+          "ccu": 2432.26549039755
+        },
+        {
+          "date": "2027-01-17",
+          "ccu": 2432.26549039755
+        },
+        {
+          "date": "2027-01-17",
+          "ccu": 23608.215297879982
+        },
+        {
+          "date": "2027-01-04",
+          "ccu": 23608.215297879982
+        },
+        {
+          "date": "2027-01-04",
+          "ccu": 2432.26549039755
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2027-01-18",
+          "ccu": 2195.0669488727835
+        },
+        {
+          "date": "2027-01-31",
+          "ccu": 2195.0669488727835
+        },
+        {
+          "date": "2027-01-31",
+          "ccu": 22643.81105521276
+        },
+        {
+          "date": "2027-01-18",
+          "ccu": 22643.81105521276
+        },
+        {
+          "date": "2027-01-18",
+          "ccu": 2195.0669488727835
+        },
+        {
+          "date": null,
+          "ccu": null
+        },
+        {
+          "date": "2027-02-01",
+          "ccu": 2176.3650708692003
+        },
+        {
+          "date": "2027-02-12",
+          "ccu": 2176.3650708692003
+        },
+        {
+          "date": "2027-02-12",
+          "ccu": 21727.6585678311
+        },
+        {
+          "date": "2027-02-01",
+          "ccu": 21727.6585678311
+        },
+        {
+          "date": "2027-02-01",
+          "ccu": 2176.3650708692003
+        },
+        {
+          "date": null,
+          "ccu": null
+        }
+      ],
+      "realized_segments": [],
+      "intervals": [
+        {
+          "interval_number": 1,
+          "horizon_day": 14,
+          "start_date": "2026-08-17",
+          "end_date": "2026-08-30",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 14588.103954326169,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 9117.643596507058,
+          "prediction_high": 21682.715640319304
+        },
+        {
+          "interval_number": 2,
+          "horizon_day": 28,
+          "start_date": "2026-08-31",
+          "end_date": "2026-09-13",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 14461.619931143396,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 7781.3673395624355,
+          "prediction_high": 24517.910763009495
+        },
+        {
+          "interval_number": 3,
+          "horizon_day": 42,
+          "start_date": "2026-09-14",
+          "end_date": "2026-09-27",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 14211.051646405987,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 6735.41658945353,
+          "prediction_high": 25222.592376187684
+        },
+        {
+          "interval_number": 4,
+          "horizon_day": 56,
+          "start_date": "2026-09-28",
+          "end_date": "2026-10-11",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 14014.379407680297,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 6179.65527099087,
+          "prediction_high": 26725.409772285802
+        },
+        {
+          "interval_number": 5,
+          "horizon_day": 70,
+          "start_date": "2026-10-12",
+          "end_date": "2026-10-25",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 13656.32196178834,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 5115.416661414073,
+          "prediction_high": 25477.02877002389
+        },
+        {
+          "interval_number": 6,
+          "horizon_day": 84,
+          "start_date": "2026-10-26",
+          "end_date": "2026-11-08",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 12918.910373508863,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 4481.678488579796,
+          "prediction_high": 26364.289489642262
+        },
+        {
+          "interval_number": 7,
+          "horizon_day": 98,
+          "start_date": "2026-11-09",
+          "end_date": "2026-11-22",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 12792.645616695429,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 3907.2065153631524,
+          "prediction_high": 25691.68396068992
+        },
+        {
+          "interval_number": 8,
+          "horizon_day": 112,
+          "start_date": "2026-11-23",
+          "end_date": "2026-12-06",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 11620.507518615319,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 3433.1240077306625,
+          "prediction_high": 23704.547898487926
+        },
+        {
+          "interval_number": 9,
+          "horizon_day": 126,
+          "start_date": "2026-12-07",
+          "end_date": "2026-12-20",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 11391.509306339358,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 2868.249089567859,
+          "prediction_high": 24459.429130488235
+        },
+        {
+          "interval_number": 10,
+          "horizon_day": 140,
+          "start_date": "2026-12-21",
+          "end_date": "2027-01-03",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 11264.316097380904,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 2843.308281349549,
+          "prediction_high": 24078.990186042294
+        },
+        {
+          "interval_number": 11,
+          "horizon_day": 154,
+          "start_date": "2027-01-04",
+          "end_date": "2027-01-17",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 10658.407303802187,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 2432.26549039755,
+          "prediction_high": 23608.215297879982
+        },
+        {
+          "interval_number": 12,
+          "horizon_day": 168,
+          "start_date": "2027-01-18",
+          "end_date": "2027-01-31",
+          "expected_days": 14,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 10032.007543147996,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 2195.0669488727835,
+          "prediction_high": 22643.81105521276
+        },
+        {
+          "interval_number": 13,
+          "horizon_day": 180,
+          "start_date": "2027-02-01",
+          "end_date": "2027-02-12",
+          "expected_days": 12,
+          "observed_days": 0,
+          "coverage_pct": 0.0,
+          "status": "pending",
+          "predicted_avg_ccu": 9956.634831436098,
+          "partial_real_avg_ccu": null,
+          "running_actual_avg_ccu": null,
+          "running_absolute_error": null,
+          "running_absolute_percentage_error": null,
+          "realized_avg_ccu": null,
+          "complete": false,
+          "absolute_error": null,
+          "absolute_percentage_error": null,
+          "prediction_low": 2176.3650708692003,
+          "prediction_high": 21727.6585678311
+        }
+      ],
+      "metrics": {
+        "historical_rows": 50,
+        "historical_avg_7d": 18793.14285714286,
+        "historical_avg_30d": 15608.533333333333,
+        "completed_intervals": 0,
+        "mae": null,
+        "mape": null,
+        "wmape": null,
+        "bias": null
       }
     },
     {
