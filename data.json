@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T09:00:14.722743+00:00",
+  "generated_at": "2026-09-01T09:00:16.747217+00:00",
   "game_count": 18,
   "games": [
     {
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-08-31",
+      "latest_actual_date": "2026-09-01",
       "historical": [
         {
           "date": "2026-05-28",
@@ -357,6 +357,10 @@
         {
           "date": "2026-08-31",
           "ccu": 263.0
+        },
+        {
+          "date": "2026-09-01",
+          "ccu": 301.0
         }
       ],
       "predicted_segments": [
@@ -867,6 +871,18 @@
         {
           "date": null,
           "ccu": null
+        },
+        {
+          "date": "2026-08-19",
+          "ccu": 349.14285714285717
+        },
+        {
+          "date": "2026-09-01",
+          "ccu": 349.14285714285717
+        },
+        {
+          "date": null,
+          "ccu": null
         }
       ],
       "intervals": [
@@ -939,18 +955,18 @@
           "start_date": "2026-08-19",
           "end_date": "2026-09-01",
           "expected_days": 14,
-          "observed_days": 13,
-          "coverage_pct": 92.85714285714286,
-          "status": "partial",
+          "observed_days": 14,
+          "coverage_pct": 100.0,
+          "status": "complete",
           "predicted_avg_ccu": 4375.350388470235,
-          "partial_real_avg_ccu": 352.84615384615387,
-          "running_actual_avg_ccu": 352.84615384615387,
-          "running_absolute_error": 4022.504234624081,
-          "running_absolute_percentage_error": 1140.0164606521266,
-          "realized_avg_ccu": null,
-          "complete": false,
-          "absolute_error": null,
-          "absolute_percentage_error": null,
+          "partial_real_avg_ccu": 349.14285714285717,
+          "running_actual_avg_ccu": 349.14285714285717,
+          "running_absolute_error": 4026.2075313273776,
+          "running_absolute_percentage_error": 1153.1690965340279,
+          "realized_avg_ccu": 349.14285714285717,
+          "complete": true,
+          "absolute_error": 4026.2075313273776,
+          "absolute_percentage_error": 1153.1690965340279,
           "prediction_low": 3008.6962335479043,
           "prediction_high": 7273.389333059998
         },
@@ -1148,11 +1164,11 @@
         "historical_rows": 32,
         "historical_avg_7d": 10090.57142857143,
         "historical_avg_30d": 3762.3333333333335,
-        "completed_intervals": 3,
-        "mae": 1993.6960489144058,
-        "mape": 170.13954662290877,
-        "wmape": 64.24271075662875,
-        "bias": 1661.3809716157539
+        "completed_intervals": 4,
+        "mae": 2501.823919517649,
+        "mape": 415.89693410068855,
+        "wmape": 103.60285402128844,
+        "bias": 2252.58761154366
       }
     },
     {
@@ -7437,7 +7453,7 @@
       "game_name": "Anime Card Chronicles",
       "universe_id": "9844129216",
       "forecast_origin_date": "2026-08-10",
-      "latest_actual_date": "2026-08-21",
+      "latest_actual_date": "2026-09-01",
       "historical": [
         {
           "date": "2026-06-23",
@@ -7572,6 +7588,10 @@
         {
           "date": "2026-08-21",
           "ccu": 1763.0
+        },
+        {
+          "date": "2026-09-01",
+          "ccu": 1359.0
         }
       ],
       "predicted_segments": [
@@ -8075,11 +8095,11 @@
           "start_date": "2026-08-25",
           "end_date": "2026-09-07",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 1,
+          "coverage_pct": 7.142857142857142,
+          "status": "partial",
           "predicted_avg_ccu": 2018.1968852004825,
-          "partial_real_avg_ccu": null,
+          "partial_real_avg_ccu": 1359.0,
           "running_actual_avg_ccu": null,
           "running_absolute_error": null,
           "running_absolute_percentage_error": null,
