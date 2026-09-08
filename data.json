@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T09:00:16.745258+00:00",
+  "generated_at": "2026-09-08T09:00:16.299244+00:00",
   "game_count": 18,
   "games": [
     {
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-06",
+      "latest_actual_date": "2026-09-08",
       "historical": [
         {
           "date": "2026-05-28",
@@ -381,6 +381,10 @@
         {
           "date": "2026-09-06",
           "ccu": 325.0
+        },
+        {
+          "date": "2026-09-08",
+          "ccu": 276.0
         }
       ],
       "predicted_segments": [
@@ -996,14 +1000,14 @@
           "start_date": "2026-09-02",
           "end_date": "2026-09-15",
           "expected_days": 14,
-          "observed_days": 5,
-          "coverage_pct": 35.714285714285715,
+          "observed_days": 6,
+          "coverage_pct": 42.857142857142854,
           "status": "partial",
           "predicted_avg_ccu": 3734.7119473349067,
-          "partial_real_avg_ccu": 293.8,
-          "running_actual_avg_ccu": 293.8,
-          "running_absolute_error": 3440.9119473349065,
-          "running_absolute_percentage_error": 1171.174931019369,
+          "partial_real_avg_ccu": 290.8333333333333,
+          "running_actual_avg_ccu": 290.8333333333333,
+          "running_absolute_error": 3443.878614001573,
+          "running_absolute_percentage_error": 1184.1416437827759,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -15984,7 +15988,7 @@
       "game_name": "Kaiju Multiverse Official",
       "universe_id": "9752499561",
       "forecast_origin_date": "2026-08-08",
-      "latest_actual_date": "2026-09-05",
+      "latest_actual_date": "2026-09-08",
       "historical": [
         {
           "date": "2026-06-21",
@@ -16122,6 +16126,10 @@
         },
         {
           "date": "2026-09-05",
+          "ccu": 0.0
+        },
+        {
+          "date": "2026-09-08",
           "ccu": 0.0
         }
       ],
@@ -16647,11 +16655,11 @@
           "start_date": "2026-09-06",
           "end_date": "2026-09-19",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 1,
+          "coverage_pct": 7.142857142857142,
+          "status": "partial",
           "predicted_avg_ccu": 2022.298531293272,
-          "partial_real_avg_ccu": null,
+          "partial_real_avg_ccu": 0.0,
           "running_actual_avg_ccu": null,
           "running_absolute_error": null,
           "running_absolute_percentage_error": null,
