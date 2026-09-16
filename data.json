@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-15T09:00:15.293492+00:00",
+  "generated_at": "2026-09-16T09:00:15.349154+00:00",
   "game_count": 18,
   "games": [
     {
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-14",
+      "latest_actual_date": "2026-09-16",
       "historical": [
         {
           "date": "2026-05-28",
@@ -397,6 +397,10 @@
         {
           "date": "2026-09-14",
           "ccu": 235.0
+        },
+        {
+          "date": "2026-09-16",
+          "ccu": 167.0
         }
       ],
       "predicted_segments": [
@@ -1033,11 +1037,11 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 1,
+          "coverage_pct": 7.142857142857142,
+          "status": "partial",
           "predicted_avg_ccu": 4083.1495536554194,
-          "partial_real_avg_ccu": null,
+          "partial_real_avg_ccu": 167.0,
           "running_actual_avg_ccu": null,
           "running_absolute_error": null,
           "running_absolute_percentage_error": null,
