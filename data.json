@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T09:00:15.173066+00:00",
+  "generated_at": "2026-09-23T09:00:15.312942+00:00",
   "game_count": 18,
   "games": [
     {
       "game_name": "+1 Magic Evolution",
       "universe_id": "10123898404",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-05-28",
@@ -409,6 +409,10 @@
         {
           "date": "2026-09-21",
           "ccu": 145.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 116.0
         }
       ],
       "predicted_segments": [
@@ -1045,14 +1049,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 4083.1495536554194,
-          "partial_real_avg_ccu": 157.0,
-          "running_actual_avg_ccu": 157.0,
-          "running_absolute_error": 3926.1495536554194,
-          "running_absolute_percentage_error": 2500.7321997805216,
+          "partial_real_avg_ccu": 146.75,
+          "running_actual_avg_ccu": 146.75,
+          "running_absolute_error": 3936.3995536554194,
+          "running_absolute_percentage_error": 2682.384704364851,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -1223,7 +1227,7 @@
       "game_name": "+1 Muscle to Arm Wrestle",
       "universe_id": "10020612607",
       "forecast_origin_date": "2026-07-19",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-04-15",
@@ -1614,6 +1618,10 @@
         {
           "date": "2026-09-21",
           "ccu": 439.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 617.0
         }
       ],
       "predicted_segments": [
@@ -2180,14 +2188,14 @@
           "start_date": "2026-09-14",
           "end_date": "2026-09-27",
           "expected_days": 14,
-          "observed_days": 4,
-          "coverage_pct": 28.57142857142857,
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
           "status": "partial",
           "predicted_avg_ccu": 2904.9794592484636,
-          "partial_real_avg_ccu": 607.5,
-          "running_actual_avg_ccu": 607.5,
-          "running_absolute_error": 2297.4794592484636,
-          "running_absolute_percentage_error": 378.1859192178541,
+          "partial_real_avg_ccu": 609.4,
+          "running_actual_avg_ccu": 609.4,
+          "running_absolute_error": 2295.5794592484635,
+          "running_absolute_percentage_error": 376.6950212091342,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -2379,7 +2387,7 @@
       "game_name": "1 Speed Keyboard Escape",
       "universe_id": "9584852943",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-02-08",
@@ -3170,6 +3178,10 @@
         {
           "date": "2026-09-21",
           "ccu": 49529.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 60764.0
         }
       ],
       "predicted_segments": [
@@ -3770,14 +3782,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 57609.52257956127,
-          "partial_real_avg_ccu": 87324.0,
-          "running_actual_avg_ccu": 87324.0,
-          "running_absolute_error": 29714.47742043873,
-          "running_absolute_percentage_error": 34.0278473506009,
+          "partial_real_avg_ccu": 80684.0,
+          "running_actual_avg_ccu": 80684.0,
+          "running_absolute_error": 23074.47742043873,
+          "running_absolute_percentage_error": 28.598578925733392,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -3948,7 +3960,7 @@
       "game_name": "+1 Strength Per Click",
       "universe_id": "10098095975",
       "forecast_origin_date": "2026-08-01",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-05-03",
@@ -4331,6 +4343,10 @@
         {
           "date": "2026-09-21",
           "ccu": 362.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 363.0
         }
       ],
       "predicted_segments": [
@@ -4876,14 +4892,14 @@
           "start_date": "2026-09-13",
           "end_date": "2026-09-26",
           "expected_days": 14,
-          "observed_days": 5,
-          "coverage_pct": 35.714285714285715,
+          "observed_days": 6,
+          "coverage_pct": 42.857142857142854,
           "status": "partial",
           "predicted_avg_ccu": 6988.84676858851,
-          "partial_real_avg_ccu": 509.2,
-          "running_actual_avg_ccu": 509.2,
-          "running_absolute_error": 6479.64676858851,
-          "running_absolute_percentage_error": 1272.515076313533,
+          "partial_real_avg_ccu": 484.8333333333333,
+          "running_actual_avg_ccu": 484.8333333333333,
+          "running_absolute_error": 6504.013435255177,
+          "running_absolute_percentage_error": 1341.494692730528,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -5096,7 +5112,7 @@
       "game_name": "99 Nights in the Forest",
       "universe_id": "7326934954",
       "forecast_origin_date": "2026-07-26",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2025-05-25",
@@ -6867,6 +6883,10 @@
         {
           "date": "2026-09-21",
           "ccu": 123264.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 97340.0
         }
       ],
       "predicted_segments": [
@@ -7446,14 +7466,14 @@
           "start_date": "2026-09-21",
           "end_date": "2026-10-04",
           "expected_days": 14,
-          "observed_days": 1,
-          "coverage_pct": 7.142857142857142,
+          "observed_days": 2,
+          "coverage_pct": 14.285714285714285,
           "status": "partial",
           "predicted_avg_ccu": 131379.3716227327,
-          "partial_real_avg_ccu": 123264.0,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 110302.0,
+          "running_actual_avg_ccu": 110302.0,
+          "running_absolute_error": 21077.371622732695,
+          "running_absolute_percentage_error": 19.10878463013608,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -7645,7 +7665,7 @@
       "game_name": "Anime Card Chronicles",
       "universe_id": "9844129216",
       "forecast_origin_date": "2026-08-10",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-06-23",
@@ -7820,6 +7840,10 @@
         {
           "date": "2026-09-21",
           "ccu": 512.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 409.0
         }
       ],
       "predicted_segments": [
@@ -8365,11 +8389,11 @@
           "start_date": "2026-09-22",
           "end_date": "2026-10-05",
           "expected_days": 14,
-          "observed_days": 0,
-          "coverage_pct": 0.0,
-          "status": "pending",
+          "observed_days": 1,
+          "coverage_pct": 7.142857142857142,
+          "status": "partial",
           "predicted_avg_ccu": 1977.3494493740002,
-          "partial_real_avg_ccu": null,
+          "partial_real_avg_ccu": 409.0,
           "running_actual_avg_ccu": null,
           "running_absolute_error": null,
           "running_absolute_percentage_error": null,
@@ -8585,7 +8609,7 @@
       "game_name": "Anime Expeditions",
       "universe_id": "7613921865",
       "forecast_origin_date": "2026-08-06",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-07-14",
@@ -8736,6 +8760,10 @@
         {
           "date": "2026-09-21",
           "ccu": 9666.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 7545.0
         }
       ],
       "predicted_segments": [
@@ -9281,14 +9309,14 @@
           "start_date": "2026-09-18",
           "end_date": "2026-10-01",
           "expected_days": 14,
-          "observed_days": 2,
-          "coverage_pct": 14.285714285714285,
+          "observed_days": 3,
+          "coverage_pct": 21.428571428571427,
           "status": "partial",
           "predicted_avg_ccu": 106887.16591835933,
-          "partial_real_avg_ccu": 11722.0,
-          "running_actual_avg_ccu": 11722.0,
-          "running_absolute_error": 95165.16591835933,
-          "running_absolute_percentage_error": 811.8509291789741,
+          "partial_real_avg_ccu": 10329.666666666666,
+          "running_actual_avg_ccu": 10329.666666666666,
+          "running_absolute_error": 96557.49925169266,
+          "running_absolute_percentage_error": 934.7591008263512,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -9501,7 +9529,7 @@
       "game_name": "Bee Swarm Simulator",
       "universe_id": "601130232",
       "forecast_origin_date": "2026-07-29",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2024-09-05",
@@ -12336,6 +12364,10 @@
         {
           "date": "2026-09-21",
           "ccu": 21273.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 21235.0
         }
       ],
       "predicted_segments": [
@@ -12894,14 +12926,14 @@
           "start_date": "2026-09-10",
           "end_date": "2026-09-23",
           "expected_days": 14,
-          "observed_days": 6,
-          "coverage_pct": 42.857142857142854,
+          "observed_days": 7,
+          "coverage_pct": 50.0,
           "status": "partial",
           "predicted_avg_ccu": 15109.704646311284,
-          "partial_real_avg_ccu": 21350.5,
-          "running_actual_avg_ccu": 21350.5,
-          "running_absolute_error": 6240.795353688716,
-          "running_absolute_percentage_error": 29.230207038189814,
+          "partial_real_avg_ccu": 21334.0,
+          "running_actual_avg_ccu": 21334.0,
+          "running_absolute_error": 6224.295353688716,
+          "running_absolute_percentage_error": 29.17547273689283,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -13114,7 +13146,7 @@
       "game_name": "Climb and Drop a Lucky Block",
       "universe_id": "10189601764",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-05-28",
@@ -13433,6 +13465,10 @@
         {
           "date": "2026-09-21",
           "ccu": 764.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 770.0
         }
       ],
       "predicted_segments": [
@@ -14033,14 +14069,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 2369.178512935587,
-          "partial_real_avg_ccu": 1092.0,
-          "running_actual_avg_ccu": 1092.0,
-          "running_absolute_error": 1277.1785129355872,
-          "running_absolute_percentage_error": 116.95773927981567,
+          "partial_real_avg_ccu": 1011.5,
+          "running_actual_avg_ccu": 1011.5,
+          "running_absolute_error": 1357.6785129355872,
+          "running_absolute_percentage_error": 134.22427216367643,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -14211,7 +14247,7 @@
       "game_name": "Evomon",
       "universe_id": "9826885587",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-06-16",
@@ -14458,6 +14494,10 @@
         {
           "date": "2026-09-21",
           "ccu": 2906.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 4949.0
         }
       ],
       "predicted_segments": [
@@ -15058,14 +15098,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 30459.10345640738,
-          "partial_real_avg_ccu": 3754.0,
-          "running_actual_avg_ccu": 3754.0,
-          "running_absolute_error": 26705.10345640738,
-          "running_absolute_percentage_error": 711.3772897284864,
+          "partial_real_avg_ccu": 4052.75,
+          "running_actual_avg_ccu": 4052.75,
+          "running_absolute_error": 26406.35345640738,
+          "running_absolute_percentage_error": 651.566305753066,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -15236,7 +15276,7 @@
       "game_name": "Iron Soul: Dungeon",
       "universe_id": "9910245722",
       "forecast_origin_date": "2026-08-16",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-06-21",
@@ -15527,6 +15567,10 @@
         {
           "date": "2026-09-21",
           "ccu": 5042.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 5881.0
         }
       ],
       "predicted_segments": [
@@ -16051,14 +16095,14 @@
           "start_date": "2026-09-14",
           "end_date": "2026-09-27",
           "expected_days": 14,
-          "observed_days": 4,
-          "coverage_pct": 28.57142857142857,
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
           "status": "partial",
           "predicted_avg_ccu": 14211.051646405987,
-          "partial_real_avg_ccu": 5906.75,
-          "running_actual_avg_ccu": 5906.75,
-          "running_absolute_error": 8304.301646405987,
-          "running_absolute_percentage_error": 140.59003083600942,
+          "partial_real_avg_ccu": 5901.6,
+          "running_actual_avg_ccu": 5901.6,
+          "running_absolute_error": 8309.451646405987,
+          "running_absolute_percentage_error": 140.79998045286,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -16292,7 +16336,7 @@
       "game_name": "Kaiju Multiverse Official",
       "universe_id": "9752499561",
       "forecast_origin_date": "2026-08-08",
-      "latest_actual_date": "2026-09-20",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-06-21",
@@ -16450,6 +16494,10 @@
         },
         {
           "date": "2026-09-20",
+          "ccu": 0.0
+        },
+        {
+          "date": "2026-09-23",
           "ccu": 0.0
         }
       ],
@@ -16996,13 +17044,13 @@
           "start_date": "2026-09-20",
           "end_date": "2026-10-03",
           "expected_days": 14,
-          "observed_days": 1,
-          "coverage_pct": 7.142857142857142,
+          "observed_days": 2,
+          "coverage_pct": 14.285714285714285,
           "status": "partial",
           "predicted_avg_ccu": 2007.7350362360235,
           "partial_real_avg_ccu": 0.0,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
+          "running_actual_avg_ccu": 0.0,
+          "running_absolute_error": 2007.7350362360235,
           "running_absolute_percentage_error": null,
           "realized_avg_ccu": null,
           "complete": false,
@@ -17216,7 +17264,7 @@
       "game_name": "Murder Mystery 2",
       "universe_id": "66654135",
       "forecast_origin_date": "2026-07-26",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2024-09-05",
@@ -20039,6 +20087,10 @@
         {
           "date": "2026-09-21",
           "ccu": 110390.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 94069.0
         }
       ],
       "predicted_segments": [
@@ -20618,14 +20670,14 @@
           "start_date": "2026-09-21",
           "end_date": "2026-10-04",
           "expected_days": 14,
-          "observed_days": 1,
-          "coverage_pct": 7.142857142857142,
+          "observed_days": 2,
+          "coverage_pct": 14.285714285714285,
           "status": "partial",
           "predicted_avg_ccu": 71182.05686150891,
-          "partial_real_avg_ccu": 110390.0,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 102229.5,
+          "running_actual_avg_ccu": 102229.5,
+          "running_absolute_error": 31047.443138491086,
+          "running_absolute_percentage_error": 30.37033648652403,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -20817,7 +20869,7 @@
       "game_name": "Random Mafia Shooter",
       "universe_id": "6964415405",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2025-05-13",
@@ -22704,6 +22756,10 @@
         {
           "date": "2026-09-21",
           "ccu": 155.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 141.0
         }
       ],
       "predicted_segments": [
@@ -23316,14 +23372,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 1092.6815403289472,
-          "partial_real_avg_ccu": 183.66666666666666,
-          "running_actual_avg_ccu": 183.66666666666666,
-          "running_absolute_error": 909.0148736622806,
-          "running_absolute_percentage_error": 494.92642849125986,
+          "partial_real_avg_ccu": 173.0,
+          "running_actual_avg_ccu": 173.0,
+          "running_absolute_error": 919.6815403289472,
+          "running_absolute_percentage_error": 531.6078267797383,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -23494,7 +23550,7 @@
       "game_name": "San Diego Border Roleplay",
       "universe_id": "9855761734",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-05-11",
@@ -23881,6 +23937,10 @@
         {
           "date": "2026-09-21",
           "ccu": 7742.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 7520.0
         }
       ],
       "predicted_segments": [
@@ -24481,14 +24541,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 10038.940944458975,
-          "partial_real_avg_ccu": 10206.333333333334,
-          "running_actual_avg_ccu": 10206.333333333334,
-          "running_absolute_error": 167.3923888743593,
-          "running_absolute_percentage_error": 1.6400834992098954,
+          "partial_real_avg_ccu": 9534.75,
+          "running_actual_avg_ccu": 9534.75,
+          "running_absolute_error": 504.1909444589746,
+          "running_absolute_percentage_error": 5.287930406764463,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -24659,7 +24719,7 @@
       "game_name": "Scale Slimy Fish",
       "universe_id": "10299611114",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-06-14",
@@ -24910,6 +24970,10 @@
         {
           "date": "2026-09-21",
           "ccu": 101.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 105.0
         }
       ],
       "predicted_segments": [
@@ -25510,14 +25574,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 6031.400862099482,
-          "partial_real_avg_ccu": 150.0,
-          "running_actual_avg_ccu": 150.0,
-          "running_absolute_error": 5881.400862099482,
-          "running_absolute_percentage_error": 3920.9339080663212,
+          "partial_real_avg_ccu": 138.75,
+          "running_actual_avg_ccu": 138.75,
+          "running_absolute_error": 5892.650862099482,
+          "running_absolute_percentage_error": 4246.9555762879145,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -25688,7 +25752,7 @@
       "game_name": "Split or Steal Brainrot",
       "universe_id": "9931060493",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-04-22",
@@ -26199,6 +26263,10 @@
         {
           "date": "2026-09-21",
           "ccu": 191.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 147.0
         }
       ],
       "predicted_segments": [
@@ -26811,14 +26879,14 @@
           "start_date": "2026-09-16",
           "end_date": "2026-09-29",
           "expected_days": 14,
-          "observed_days": 3,
-          "coverage_pct": 21.428571428571427,
+          "observed_days": 4,
+          "coverage_pct": 28.57142857142857,
           "status": "partial",
           "predicted_avg_ccu": 3184.1572219172645,
-          "partial_real_avg_ccu": 249.0,
-          "running_actual_avg_ccu": 249.0,
-          "running_absolute_error": 2935.1572219172645,
-          "running_absolute_percentage_error": 1178.7780007699857,
+          "partial_real_avg_ccu": 223.5,
+          "running_actual_avg_ccu": 223.5,
+          "running_absolute_error": 2960.6572219172645,
+          "running_absolute_percentage_error": 1324.6788464954204,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -26989,7 +27057,7 @@
       "game_name": "\u2694\ufe0f Survived 67 Days - Monster Forest \ud83d\udc3a",
       "universe_id": "8995269203",
       "forecast_origin_date": "2026-08-06",
-      "latest_actual_date": "2026-09-21",
+      "latest_actual_date": "2026-09-23",
       "historical": [
         {
           "date": "2026-01-14",
@@ -27880,6 +27948,10 @@
         {
           "date": "2026-09-21",
           "ccu": 341.0
+        },
+        {
+          "date": "2026-09-23",
+          "ccu": 322.0
         }
       ],
       "predicted_segments": [
@@ -28425,14 +28497,14 @@
           "start_date": "2026-09-18",
           "end_date": "2026-10-01",
           "expected_days": 14,
-          "observed_days": 2,
-          "coverage_pct": 14.285714285714285,
+          "observed_days": 3,
+          "coverage_pct": 21.428571428571427,
           "status": "partial",
           "predicted_avg_ccu": 1384.3165088587612,
-          "partial_real_avg_ccu": 645.0,
-          "running_actual_avg_ccu": 645.0,
-          "running_absolute_error": 739.3165088587612,
-          "running_absolute_percentage_error": 114.6227145517459,
+          "partial_real_avg_ccu": 537.3333333333334,
+          "running_actual_avg_ccu": 537.3333333333334,
+          "running_absolute_error": 846.9831755254278,
+          "running_absolute_percentage_error": 157.62714184716398,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
