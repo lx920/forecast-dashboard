@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:00:17.022083+00:00",
+  "generated_at": "2026-10-10T09:00:16.899181+00:00",
   "game_count": 18,
   "games": [
     {
@@ -16660,7 +16660,7 @@
       "game_name": "Kaiju Multiverse Official",
       "universe_id": "9752499561",
       "forecast_origin_date": "2026-08-08",
-      "latest_actual_date": "2026-10-07",
+      "latest_actual_date": "2026-10-10",
       "historical": [
         {
           "date": "2026-06-21",
@@ -16838,6 +16838,10 @@
         },
         {
           "date": "2026-10-07",
+          "ccu": 0.0
+        },
+        {
+          "date": "2026-10-10",
           "ccu": 0.0
         }
       ],
@@ -17405,13 +17409,13 @@
           "start_date": "2026-10-04",
           "end_date": "2026-10-17",
           "expected_days": 14,
-          "observed_days": 1,
-          "coverage_pct": 7.142857142857142,
+          "observed_days": 2,
+          "coverage_pct": 14.285714285714285,
           "status": "partial",
           "predicted_avg_ccu": 1981.0099498013228,
           "partial_real_avg_ccu": 0.0,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
+          "running_actual_avg_ccu": 0.0,
+          "running_absolute_error": 1981.0099498013228,
           "running_absolute_percentage_error": null,
           "realized_avg_ccu": null,
           "complete": false,
