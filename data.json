@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:00:18.184277+00:00",
+  "generated_at": "2026-10-23T09:00:19.037074+00:00",
   "game_count": 18,
   "games": [
     {
@@ -1275,7 +1275,7 @@
       "game_name": "+1 Muscle to Arm Wrestle",
       "universe_id": "10020612607",
       "forecast_origin_date": "2026-07-19",
-      "latest_actual_date": "2026-10-22",
+      "latest_actual_date": "2026-10-23",
       "historical": [
         {
           "date": "2026-04-15",
@@ -1762,6 +1762,10 @@
         {
           "date": "2026-10-22",
           "ccu": 526.0
+        },
+        {
+          "date": "2026-10-23",
+          "ccu": 718.0
         }
       ],
       "predicted_segments": [
@@ -2370,14 +2374,14 @@
           "start_date": "2026-10-12",
           "end_date": "2026-10-25",
           "expected_days": 14,
-          "observed_days": 11,
-          "coverage_pct": 78.57142857142857,
+          "observed_days": 12,
+          "coverage_pct": 85.71428571428571,
           "status": "partial",
           "predicted_avg_ccu": 3352.371162977579,
-          "partial_real_avg_ccu": 815.1818181818181,
-          "running_actual_avg_ccu": 815.1818181818181,
-          "running_absolute_error": 2537.189344795761,
-          "running_absolute_percentage_error": 311.2421411035282,
+          "partial_real_avg_ccu": 807.0833333333334,
+          "running_actual_avg_ccu": 807.0833333333334,
+          "running_absolute_error": 2545.2878296442454,
+          "running_absolute_percentage_error": 315.3686520984093,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -2527,7 +2531,7 @@
       "game_name": "1 Speed Keyboard Escape",
       "universe_id": "9584852943",
       "forecast_origin_date": "2026-07-07",
-      "latest_actual_date": "2026-10-22",
+      "latest_actual_date": "2026-10-23",
       "historical": [
         {
           "date": "2026-02-08",
@@ -3414,6 +3418,10 @@
         {
           "date": "2026-10-22",
           "ccu": 33251.0
+        },
+        {
+          "date": "2026-10-23",
+          "ccu": 54271.0
         }
       ],
       "predicted_segments": [
@@ -4056,14 +4064,14 @@
           "start_date": "2026-10-14",
           "end_date": "2026-10-27",
           "expected_days": 14,
-          "observed_days": 9,
-          "coverage_pct": 64.28571428571429,
+          "observed_days": 10,
+          "coverage_pct": 71.42857142857143,
           "status": "partial",
           "predicted_avg_ccu": 53996.84471265129,
-          "partial_real_avg_ccu": 45828.555555555555,
-          "running_actual_avg_ccu": 45828.555555555555,
-          "running_absolute_error": 8168.289157095736,
-          "running_absolute_percentage_error": 17.82357977046374,
+          "partial_real_avg_ccu": 46672.8,
+          "running_actual_avg_ccu": 46672.8,
+          "running_absolute_error": 7324.044712651288,
+          "running_absolute_percentage_error": 15.692319108027133,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -5392,7 +5400,7 @@
       "game_name": "99 Nights in the Forest",
       "universe_id": "7326934954",
       "forecast_origin_date": "2026-07-26",
-      "latest_actual_date": "2026-10-22",
+      "latest_actual_date": "2026-10-23",
       "historical": [
         {
           "date": "2025-05-25",
@@ -7259,6 +7267,10 @@
         {
           "date": "2026-10-22",
           "ccu": 120810.0
+        },
+        {
+          "date": "2026-10-23",
+          "ccu": 151004.0
         }
       ],
       "predicted_segments": [
@@ -7892,14 +7904,14 @@
           "start_date": "2026-10-19",
           "end_date": "2026-11-01",
           "expected_days": 14,
-          "observed_days": 4,
-          "coverage_pct": 28.57142857142857,
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
           "status": "partial",
           "predicted_avg_ccu": 142437.3371538646,
-          "partial_real_avg_ccu": 122342.25,
-          "running_actual_avg_ccu": 122342.25,
-          "running_absolute_error": 20095.087153864588,
-          "running_absolute_percentage_error": 16.425304548399748,
+          "partial_real_avg_ccu": 128074.6,
+          "running_actual_avg_ccu": 128074.6,
+          "running_absolute_error": 14362.737153864582,
+          "running_absolute_percentage_error": 11.214352536618955,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -10009,7 +10021,7 @@
       "game_name": "Bee Swarm Simulator",
       "universe_id": "601130232",
       "forecast_origin_date": "2026-07-29",
-      "latest_actual_date": "2026-10-22",
+      "latest_actual_date": "2026-10-23",
       "historical": [
         {
           "date": "2024-09-05",
@@ -12940,6 +12952,10 @@
         {
           "date": "2026-10-22",
           "ccu": 28135.0
+        },
+        {
+          "date": "2026-10-23",
+          "ccu": 29158.0
         }
       ],
       "predicted_segments": [
@@ -13573,14 +13589,14 @@
           "start_date": "2026-10-22",
           "end_date": "2026-11-04",
           "expected_days": 14,
-          "observed_days": 1,
-          "coverage_pct": 7.142857142857142,
+          "observed_days": 2,
+          "coverage_pct": 14.285714285714285,
           "status": "partial",
           "predicted_avg_ccu": 15932.92404513742,
-          "partial_real_avg_ccu": 28135.0,
-          "running_actual_avg_ccu": null,
-          "running_absolute_error": null,
-          "running_absolute_percentage_error": null,
+          "partial_real_avg_ccu": 28646.5,
+          "running_actual_avg_ccu": 28646.5,
+          "running_absolute_error": 12713.57595486258,
+          "running_absolute_percentage_error": 44.380905014094495,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -18024,7 +18040,7 @@
       "game_name": "Murder Mystery 2",
       "universe_id": "66654135",
       "forecast_origin_date": "2026-07-26",
-      "latest_actual_date": "2026-10-22",
+      "latest_actual_date": "2026-10-23",
       "historical": [
         {
           "date": "2024-09-05",
@@ -20943,6 +20959,10 @@
         {
           "date": "2026-10-22",
           "ccu": 494240.0
+        },
+        {
+          "date": "2026-10-23",
+          "ccu": 691863.0
         }
       ],
       "predicted_segments": [
@@ -21576,14 +21596,14 @@
           "start_date": "2026-10-19",
           "end_date": "2026-11-01",
           "expected_days": 14,
-          "observed_days": 4,
-          "coverage_pct": 28.57142857142857,
+          "observed_days": 5,
+          "coverage_pct": 35.714285714285715,
           "status": "partial",
           "predicted_avg_ccu": 66761.0992013318,
-          "partial_real_avg_ccu": 592262.75,
-          "running_actual_avg_ccu": 592262.75,
-          "running_absolute_error": 525501.6507986682,
-          "running_absolute_percentage_error": 88.72779029217492,
+          "partial_real_avg_ccu": 612182.8,
+          "running_actual_avg_ccu": 612182.8,
+          "running_absolute_error": 545421.7007986682,
+          "running_absolute_percentage_error": 89.09458103015442,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
