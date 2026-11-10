@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:00:17.805986+00:00",
+  "generated_at": "2026-11-10T09:00:18.978026+00:00",
   "game_count": 18,
   "games": [
     {
@@ -1865,7 +1865,7 @@
         },
         {
           "date": "2026-11-09",
-          "ccu": 497.0
+          "ccu": 580.0
         }
       ],
       "predicted_segments": [
@@ -2545,7 +2545,7 @@
           "coverage_pct": 7.142857142857142,
           "status": "partial",
           "predicted_avg_ccu": 2934.687312172173,
-          "partial_real_avg_ccu": 497.0,
+          "partial_real_avg_ccu": 580.0,
           "running_actual_avg_ccu": null,
           "running_absolute_error": null,
           "running_absolute_percentage_error": null,
@@ -3606,7 +3606,7 @@
         },
         {
           "date": "2026-11-07",
-          "ccu": 25458.0
+          "ccu": 76139.0
         },
         {
           "date": "2026-11-08",
@@ -3614,7 +3614,7 @@
         },
         {
           "date": "2026-11-09",
-          "ccu": 12320.0
+          "ccu": 17702.0
         }
       ],
       "predicted_segments": [
@@ -4294,10 +4294,10 @@
           "coverage_pct": 92.85714285714286,
           "status": "partial",
           "predicted_avg_ccu": 54279.86602755834,
-          "partial_real_avg_ccu": 30064.384615384617,
-          "running_actual_avg_ccu": 30064.384615384617,
-          "running_absolute_error": 24215.48141217372,
-          "running_absolute_percentage_error": 80.5454085355937,
+          "partial_real_avg_ccu": 34376.92307692308,
+          "running_actual_avg_ccu": 34376.92307692308,
+          "running_absolute_error": 19902.94295063526,
+          "running_absolute_percentage_error": 57.896231451836734,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -7567,7 +7567,7 @@
         },
         {
           "date": "2026-11-07",
-          "ccu": 143982.0
+          "ccu": 229609.0
         },
         {
           "date": "2026-11-08",
@@ -7575,7 +7575,7 @@
         },
         {
           "date": "2026-11-09",
-          "ccu": 92391.0
+          "ccu": 109963.0
         }
       ],
       "predicted_segments": [
@@ -8246,10 +8246,10 @@
           "coverage_pct": 57.14285714285714,
           "status": "partial",
           "predicted_avg_ccu": 159666.50992699905,
-          "partial_real_avg_ccu": 119199.5,
-          "running_actual_avg_ccu": 119199.5,
-          "running_absolute_error": 40467.009926999046,
-          "running_absolute_percentage_error": 33.94897623479884,
+          "partial_real_avg_ccu": 132099.375,
+          "running_actual_avg_ccu": 132099.375,
+          "running_absolute_error": 27567.134926999046,
+          "running_absolute_percentage_error": 20.868482479193446,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -13392,11 +13392,11 @@
         },
         {
           "date": "2026-11-06",
-          "ccu": 29753.0
+          "ccu": 28417.0
         },
         {
           "date": "2026-11-07",
-          "ccu": 31763.0
+          "ccu": 32803.0
         },
         {
           "date": "2026-11-08",
@@ -13404,7 +13404,7 @@
         },
         {
           "date": "2026-11-09",
-          "ccu": 28583.0
+          "ccu": 30283.0
         }
       ],
       "predicted_segments": [
@@ -14075,10 +14075,10 @@
           "coverage_pct": 35.714285714285715,
           "status": "partial",
           "predicted_avg_ccu": 16562.813480349767,
-          "partial_real_avg_ccu": 30147.6,
-          "running_actual_avg_ccu": 30147.6,
-          "running_absolute_error": 13584.786519650232,
-          "running_absolute_percentage_error": 45.06092199594738,
+          "partial_real_avg_ccu": 30428.4,
+          "running_actual_avg_ccu": 30428.4,
+          "running_absolute_error": 13865.586519650235,
+          "running_absolute_percentage_error": 45.56791194952818,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
@@ -21599,11 +21599,11 @@
         },
         {
           "date": "2026-11-06",
-          "ccu": 249906.0
+          "ccu": 232513.0
         },
         {
           "date": "2026-11-07",
-          "ccu": 292646.0
+          "ccu": 278900.0
         },
         {
           "date": "2026-11-08",
@@ -21611,7 +21611,7 @@
         },
         {
           "date": "2026-11-09",
-          "ccu": 343623.0
+          "ccu": 415965.0
         }
       ],
       "predicted_segments": [
@@ -22282,10 +22282,10 @@
           "coverage_pct": 57.14285714285714,
           "status": "partial",
           "predicted_avg_ccu": 66026.4584666326,
-          "partial_real_avg_ccu": 273867.5,
-          "running_actual_avg_ccu": 273867.5,
-          "running_absolute_error": 207841.04153336742,
-          "running_absolute_percentage_error": 75.89109388056904,
+          "partial_real_avg_ccu": 279017.875,
+          "running_actual_avg_ccu": 279017.875,
+          "running_absolute_error": 212991.41653336742,
+          "running_absolute_percentage_error": 76.33611880004729,
           "realized_avg_ccu": null,
           "complete": false,
           "absolute_error": null,
